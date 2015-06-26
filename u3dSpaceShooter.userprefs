@@ -1,10 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Done_Mover.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Done_DestroyByContact.cs">
     <Files>
-      <File FileName="Assets\Scripts\Done_PlayerController.cs" Line="28" Column="20" />
-      <File FileName="Assets\Scripts\Done_Mover.cs" Line="13" Column="1" />
-      <File FileName="Assets\Scripts\Done_DestroyByBoundary.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\Done_DestroyByBoundary.cs" Line="9" Column="3" />
+      <File FileName="Assets\Scripts\Done_DestroyByContact.cs" Line="40" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

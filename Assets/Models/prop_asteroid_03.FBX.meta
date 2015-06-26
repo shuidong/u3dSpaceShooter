@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0837544cc80ef824d8fbf928f44aa296
+guid: 93a58c9db60b58e43a5f1ac903463ce5
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -7,11 +7,11 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: vehicle_playerShip
+    4300000: prop_asteroid_03
     9500000: //RootNode
   materials:
     importMaterials: 1
-    materialName: 1
+    materialName: 0
     materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
